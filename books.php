@@ -1,11 +1,11 @@
 <?php
-/*
-	1. Add your php database connection/file here.
 
-	2. Call your function to retreive your data and store it as a variable called $result (this is what we use in this example, you can name it whatever you like).
+//	1. Add your php database connection/file here.
+//
+//	2. Call your function to retreive your data and store it as a variable called $result (this is what we use in this example, you can name it whatever you like).
+//
+//		ex: $result = fetch_books_array();
 
-		ex: $result = fetch_books_array();
-*/
 ?>
 
 <html lang="en">
