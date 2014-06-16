@@ -35,6 +35,10 @@
 		    padding: 0 0 0 50px;
 	    }
 	    
+	    .paginate_button {
+	    	padding: 0 8px;
+	    }
+	    
 	    .dataTables_paginate {
 		    float: right;
 		    width: 220px;
