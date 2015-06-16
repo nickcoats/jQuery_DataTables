@@ -81,9 +81,9 @@ $locations = array(
 	  		<thead>
 	  	  		<tr>
 	  	  			<th>Id</th>
-	  	  			<th>Title</th>
-	  	  			<th>Author</th>
-	  	  			<th>Genre</th>
+	  	  			<th>City</th>
+	  	  			<th>Country</th>
+	  	  			<th>Continent</th>
 	  	  		</tr>
 	  	    </thead>
 	  	    
